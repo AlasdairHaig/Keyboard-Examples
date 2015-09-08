@@ -1,0 +1,7 @@
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\bin\Debug\KeyupExample.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\bin\Debug\KeyupExample.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\obj\x86\Debug\KeyupExample.Form1.resources
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\obj\x86\Debug\KeyupExample.Properties.Resources.resources
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\obj\x86\Debug\KeyupExample.csproj.GenerateResource.Cache
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\obj\x86\Debug\KeyupExample.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\KeyupExample\KeyupExample\obj\x86\Debug\KeyupExample.pdb

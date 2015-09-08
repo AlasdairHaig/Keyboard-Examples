@@ -1,0 +1,7 @@
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\bin\Debug\Keyboard Example.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\bin\Debug\Keyboard Example.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\obj\x86\Debug\Keyboard_Example.fclsKeyboardExample.resources
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\obj\x86\Debug\Keyboard_Example.Properties.Resources.resources
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\obj\x86\Debug\Keyboard Example.csproj.GenerateResource.Cache
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\obj\x86\Debug\Keyboard Example.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\Keyboard Example\Keyboard Example\obj\x86\Debug\Keyboard Example.pdb
